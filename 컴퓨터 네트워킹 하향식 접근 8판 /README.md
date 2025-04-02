@@ -1,5 +1,7 @@
 # 컴퓨터 네트워킹 하향식 접근 제 8판
-공부하고 정리한 내용입니다
+혼자 공부하고 정리한 내용입니다
+
+
 <img src="https://github.com/user-attachments/assets/1548e8d8-ef31-474b-be02-b966ac582bc0" width="200"/>
 
 ▶️ [퍼스트북, 최종원 외 옮김](https://product.kyobobook.co.kr/detail/S000061694627)
